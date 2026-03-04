@@ -5,7 +5,7 @@ This project presents an end-to-end Power BI dashboard designed to analyze hospi
 
 The dashboard helps monitor waiting list trends, compare inpatient and outpatient cases, and identify specialties with the highest patient demand.
 
-By analyzing waiting list patterns across specialties, age groups, and time bands, the dashboard provides insights that can support data-driven healthcare planning and operational improvements.
+By analyzing waiting list patterns across specialties, age groups, and time bands, the dashboard provides insights that support data-driven healthcare planning and operational improvements.
 
 🎯 Business Objectives
 
@@ -19,7 +19,7 @@ Perform specialty-level and age-profile analysis
 
 📂 Dataset Information
 
-The dataset contains hospital waiting list records from 2018 to 2021.
+The dataset contains hospital waiting list records from 2018 – 2021.
 
 Data Structure
 
@@ -33,11 +33,9 @@ Contains CSV files of outpatient waiting list data
 
 Mapping_Specialty.csv
 
-Mapping table used to group medical specialties into broader specialty categories
+Mapping table used to group medical specialties into broader categories
 
 📊 Dashboard Features
-
-The dashboard includes several analytical visualizations:
 
 Current month vs previous year waitlist comparison
 
@@ -74,7 +72,7 @@ Drill Down Analysis
 File	Description
 Inpatient	Folder containing inpatient waiting list CSV files
 Outpatient	Folder containing outpatient waiting list CSV files
-Hospital-Waitlist-PowerBI-Dashboard_Tejas.pbix	Power BI dashboard project
+Hospital-Waitlist-PowerBI-Dashboard_Tejas.pbix	Power BI project file
 Hospital-waitlist-PowerBi-Dashboard-tejas.pdf	Exported dashboard report
 Mapping_Specialty.csv	Specialty mapping dataset
 summary_dashboard.png	Dashboard screenshot
